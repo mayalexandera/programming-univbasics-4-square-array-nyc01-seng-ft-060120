@@ -1,8 +1,8 @@
 def square_array(array)
   new_array = []
-    i = 0 
+     
   while i < array.length do
-    
+    i = 0
     new_array << Math.sqrt(array[i]
     i += 1 
   end
